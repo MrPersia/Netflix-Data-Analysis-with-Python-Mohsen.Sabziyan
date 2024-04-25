@@ -1,6 +1,4 @@
-Natürlich, hier ist ein Text, den du für dein GitHub verwenden kannst:
 
----
 
 ### Analyse der Sentiments in Netflix-Inhalten
 
@@ -17,7 +15,3 @@ Dieses Projekt analysiert die Sentiments von Netflix-Inhalten über die Jahre. D
 #### Ergebnisse:
 
 Die Analyse zeigt, dass der Gesamtinhalt, der als positiv bewertet wird, immer größer ist als der neutrale und negative Inhalt zusammen. Dies legt nahe, dass die überwiegende Mehrheit der Netflix-Inhalte eine positive Wahrnehmung hat.
-
----
-
-Fühle dich frei, den Text nach deinen Wünschen anzupassen!
